@@ -33,7 +33,7 @@ document.write('<script src="http://pkt.zoosnet.net/JS/LsJS.aspx?siteid=PKT21646
 //#@-livechat-zenith-content
 ```
 
-### 中文商务通代码【与世邦的一样】
+### 中文商务通代码
 
 ```JavaScript
 //#@+cnlivechat-sbm-content
